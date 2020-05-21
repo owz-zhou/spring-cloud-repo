@@ -6,8 +6,8 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/owz-zhou/hello-world
-          searchPaths: hello-world
+          uri: https://github.com/owz-zhou/spring-cloud-repo
+          searchPaths: spring-cloud-repo
 eureka:
   client:
     serviceUrl:
